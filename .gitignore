@@ -1,0 +1,24 @@
+# Unreal Engine temp/cache
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# IDE/project files
+*.sln
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.VC.db
+
+# Logs/backups
+*.log
+*.backup
+
+# Local editor settings (tokens, session files)
+Config/WindowsEditor/*.ini
+
+# Keep Multi-User server config
+!Config/MultiUserServer.ini
