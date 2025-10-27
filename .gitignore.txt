@@ -1,5 +1,4 @@
 # Unreal Engine temp/cache
-Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
